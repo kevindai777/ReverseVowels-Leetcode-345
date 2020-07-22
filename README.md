@@ -1,4 +1,4 @@
-# ReverseVowels-Leetcode-345
+# ReverseVowelsOfAString-Leetcode-345
 
 Leetcode Question 345 (Easy)
 
